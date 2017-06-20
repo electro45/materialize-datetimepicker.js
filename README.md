@@ -1,6 +1,6 @@
 # materialize-datetimepicker.js
 
-##Installation
+## Installation
 
 ### git
 `git clone https://github.com/DaedalusDev/materialize-clockpicker.git`
